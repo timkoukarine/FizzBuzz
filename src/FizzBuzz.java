@@ -21,15 +21,18 @@ class FizzBuzz {
 
             System.out.println("Fizz Buzz");
 
-        } else if (divisibleBy3) {
+        }
+        else if (divisibleBy3) {
 
             System.out.println("Fizz");
 
-        } else if (divisibleBy5) {
+        }
+        else if (divisibleBy5) {
 
             System.out.println("Buzz");
 
-        } else {
+        }
+        else {
 
             System.out.println(i);
 
